@@ -1,4 +1,0 @@
-# 3. 本地打包压缩
-echo "--- 3. 本地打包压缩 ---"
-cd "$LOCAL_PROJECT_DIR"
-tar -czvf nowcore.tar.gz nowcore 
