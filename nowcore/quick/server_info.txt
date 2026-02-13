@@ -1,0 +1,3 @@
+IP=35.77.211.180
+KEY=toyo.pem
+USER=ubuntu
